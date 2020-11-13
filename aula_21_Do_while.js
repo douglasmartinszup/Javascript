@@ -10,3 +10,8 @@ do {
   doug++; //nunca esqueca de usar a variavel++ ou variavel--
   //para que ele  não fique no mesmo valor e execute para sempre
 } while (doug < 10);
+
+
+
+
+// by Doug Caval

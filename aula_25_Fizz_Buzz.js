@@ -29,4 +29,5 @@ function fizzBuzz(entrada){
     return entrada;
 
 }
+//by Doug caval
 

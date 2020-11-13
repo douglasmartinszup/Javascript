@@ -22,3 +22,5 @@ const devs = ['Doug', 'Lucas', 'Matheus', 'Wanessa'];
 for (let zup of devs){
     console.log(zup);
 }
+
+//by Doug Caval

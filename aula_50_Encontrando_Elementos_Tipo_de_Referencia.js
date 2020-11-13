@@ -12,3 +12,6 @@ let found = marcar.find( function(element){
 console.log(found);
 
 //Ele retornará um objeto que contenha algo com o valor passado
+
+
+//by Doug Caval

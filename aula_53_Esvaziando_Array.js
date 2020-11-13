@@ -50,3 +50,5 @@ numeros4.pop();
 
 console.log(numeros4);
 console.log(outros4);
+
+//by Doug Caval

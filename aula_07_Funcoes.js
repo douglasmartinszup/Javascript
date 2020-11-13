@@ -1,18 +1,20 @@
 //Funcoes em javascript
 
 //Função normal
+
 // verbo + substantivo
 
-let linguagem = 'HTML';
+let linguagem = "HTML";
 
 function estudar(curso) {
   let linguagem = curso;
-    console.log('Estudar', linguagem, ' é bom ');
+  console.log("Estudar", linguagem, " é bom ");
 }
 
-//chamando a função
+//chamando a função no console
 
-estudar('javascript');
+estudar("javascript");
 
 //ela será executada no console
 
+//by Doug Caval

@@ -7,14 +7,18 @@
 let valor = 100;
 
 
-//eu atribui o vlro dele com ele mesmo
+//se precisar somo o valor da variável com ela mesma 
+//eu atribui o valor dele com ele mesmo
  valor +=  valor ;
 
  console.log(valor);
 
- //pode ser feito co outros operadores aritimeticos
+ //isso também pode ser feito co outros operadores aritimeticos
 
  valor -= valor;
  valor *= valor;
  valor /= valor;
+
+
+ //by Doug Caval
  

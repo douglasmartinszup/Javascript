@@ -23,3 +23,4 @@ function maxNumber2 (numero1,numero2){
 //se numero1 for maior que numero2 (? retorne) numero1 (: caso contrário) retorne numero2
 }
 
+//by Doug Caval

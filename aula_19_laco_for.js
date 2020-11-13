@@ -32,3 +32,6 @@ for (let doug = 0; doug < 10; doug++) {
 for (let doug = 10; doug > 0; doug--) {
   console.log("É assim que usa o for de forma decrescente ", doug);
 }
+
+
+//by Doug Caval

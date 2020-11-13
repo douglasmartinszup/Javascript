@@ -14,3 +14,5 @@ Math.max(3,6,8,10)
 
 //retorna o menor número entre os setados
 Math.min(5,6,7,8)
+
+//by Doug Caval

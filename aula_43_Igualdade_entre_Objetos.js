@@ -26,3 +26,5 @@ function enderecoMemoriaSaoIguais(){
 
 }
 console.log(enderecoMemoriaSaoIguais(endereco1,endereco3));
+
+//by Doug Caval

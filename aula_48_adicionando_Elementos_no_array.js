@@ -18,3 +18,6 @@ console.log(numeros2);
 //no fianal
 numeros3.push('Doug');
 console.log(numeros3);
+
+
+//by Doug Caval

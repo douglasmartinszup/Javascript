@@ -13,3 +13,5 @@ function CriarPost(titulo, mensagem, autor){
 
 let post = new CriarPost('Javascript','Estudar é bom','Doug Caval',345,['parabéns','estou curtindo','continue assim'],true);
 console.log(post);
+
+//by Doug Caval

@@ -15,3 +15,6 @@ let postagem = {
     aoVivo: true
 }
 console.log(postagem);
+
+
+//by Doug Caval

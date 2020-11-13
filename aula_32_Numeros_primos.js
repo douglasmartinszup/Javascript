@@ -21,3 +21,5 @@ function exibirNumerosPrimos(limite) {
     if (ehPrimo) console.log(numero);
   }
 }
+
+//by Doug Caval

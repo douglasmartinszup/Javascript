@@ -17,3 +17,5 @@ console.log(mensagem);
 const outra = 'minha outra "mensagem"'
 
 console.log(outra);
+
+// by Doug Caval

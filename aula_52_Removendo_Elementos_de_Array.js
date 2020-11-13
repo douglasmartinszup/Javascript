@@ -17,3 +17,5 @@ const deletando3 = numeros.shift();
 console.log(deletando3);
 
 
+//by Doug Caval
+

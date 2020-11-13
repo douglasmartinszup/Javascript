@@ -29,3 +29,6 @@ console.log(combinadoSpreadAdicao);
 //como clonar um array
 
 const clanadoSpread = [...combinadoSpread ];
+
+
+//by Doug Caval

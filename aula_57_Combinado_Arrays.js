@@ -13,3 +13,5 @@ const frase = 'Seja bem vindo ao curso';
 
 const espaco = frase.split(' ');
 console.log(espaco);
+
+//by Doug Caval

@@ -1,10 +1,23 @@
-//Tipagem dinâmica
+//Tipagem dinâmica, ou seja o tipo de variável é dinâmico
 //Podemos alterar o tipo da variável exemplo de number para string
 
+//typeof undefined
+var nome;
+console.log(nome, ": Neste caso ele veio como undefined");
 
-let nome = 'Doug'; //typeof = string
-let nome = 36 ; //typeof = number, não tem diferenciação apra decimais ou não 
-let nome ; //typeof undefined
-let nome = null; //typeof null
+//typeof = string
+var nome = "Doug";
+console.log(nome, ": Neste caso ele veio como string");
 
-//treinar no console essas mudanças
+//typeof = number, não tem diferenciação apra decimais ou não
+var nome = 36;
+console.log(nome, ": Neste caso ele veio como number");
+
+//typeof null
+var nome = null;
+console.log(nome, ": Neste caso ele veio como null");
+
+//neste caso temos a mesma variável alterando seu tipo conforme o valor atribuido
+//Você pode ver as alterações impressar nos console
+
+//by Doug Caval

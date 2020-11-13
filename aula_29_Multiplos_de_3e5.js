@@ -25,5 +25,4 @@ function somar(limite) {
   console.log(multiplos3 + multiplos5);
 }
 
-
 //by Doug Caval

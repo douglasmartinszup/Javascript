@@ -25,3 +25,5 @@ const celular = {
 celular.ligar();
 
 console.log(celular.capacidadeBateria, celular.marcaCelular);
+
+//by Doug Caval

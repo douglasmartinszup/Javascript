@@ -11,3 +11,5 @@
 let array = ['um','dois',3,4,'cinco'];
 
 console.log(array);
+
+//by Doug Caval

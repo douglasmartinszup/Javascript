@@ -13,3 +13,6 @@ let found = marcar.find(function (element) {
 //Arrow function
 let found2 = marcar.find((element) => element.nome === "a");
 console.log(found2);
+
+
+//by Doug Caval

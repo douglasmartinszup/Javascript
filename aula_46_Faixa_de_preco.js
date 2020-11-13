@@ -29,3 +29,5 @@ let novoPreco = [
 ];
 
 console.log(novoPreco);
+
+//by Doug Caval

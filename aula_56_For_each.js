@@ -22,3 +22,5 @@ numeros.forEach((numeros) =>
 numeros.forEach((numeros,indice) => console.log(numeros,indice));
 let funcao = numeros
 console.log(funcao);
+
+//by Doug Caval

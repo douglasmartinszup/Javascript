@@ -49,3 +49,6 @@ for (let indice in cores){
 for (let indice in cores){
     console.log(indice,cores[indice]);
 }
+
+
+//by Doug Caval
