@@ -2,4 +2,4 @@
 Curso de Javascrip passo a passo e comentado 
 
 
-# Doug Caval
+# by  Doug Caval™
